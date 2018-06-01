@@ -1,2 +1,2 @@
 # c_heap
-a heap structure in c
+A very basic heap functions.
